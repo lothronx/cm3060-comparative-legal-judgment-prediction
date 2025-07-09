@@ -378,7 +378,7 @@ This project builds upon extensive research in **legal judgment prediction**, **
 - **Attribution**: Please cite appropriately when using this work
 
 </td>
-<td width="30%">
+<td style="width: 30%; word-wrap: break-word;">
 
 ### 🎓 Academic Citation
 
@@ -397,25 +397,15 @@ This project builds upon extensive research in **legal judgment prediction**, **
 </tr>
 </table>
 
-### 🤝 Contributing
-
-We welcome contributions! Please:
-
-- 🐛 **Report Issues**: Use GitHub issues for bugs
-- 💡 **Suggest Features**: Propose improvements via issues
-- 🔧 **Submit PRs**: Follow standard GitHub workflow
-- 📧 **Contact**: Reach out for collaboration opportunities
-
 ---
 
 <div align="center">
 
-### 🌟 Star this repo if you found it helpful! 🌟
+### 🔗 Connect with the Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuewuxd/)
 
 **Made with ❤️ for the Legal AI Community**
-
-[![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social&label=Star)](https://github.com/lothronx/cm3060-comparative-legal-judgment-prediction)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social&label=Fork)](https://github.com/lothronx/cm3060-comparative-legal-judgment-prediction)
 
 📊 _For detailed implementation, complete results, and technical specifications, please refer to the [accompanying Jupyter notebook](Comparative_Legal_Judgment_Prediction_Using_Statistical_and_Embedding_based_Models.ipynb)._
 
