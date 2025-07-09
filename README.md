@@ -16,10 +16,12 @@
 - [🧠 Context and Background](#-context-and-background)
 - [📊 Dataset](#-dataset)
 - [🔬 Methodology](#-methodology)
-- [📈 Results](#-results-and-performance-analysis)
-- [🔮 Future Work](#-future-work-and-limitations)
-- [🤝 Contributing](#-contributing-to-legal-ai)
+- [📈 Results and Performance Analysis](#-results-and-performance-analysis)
+- [🔮 Future Work and Limitations](#-future-work-and-limitations)
+- [🤝 Contributing to Legal AI](#-contributing-to-legal-ai)
 - [📚 References](#-references)
+- [📄 License and Citation](#-license-and-citation)
+- [🔗 Connect with the Author](#-connect-with-the-author)
 
 ## Project Overview
 
@@ -366,19 +368,12 @@ This project builds upon extensive research in **legal judgment prediction**, **
 
 ## 📄 License and Citation
 
-<table>
-<tr>
-<td width="70%">
-
 ### 📜 License Information
 
 - **Purpose**: Educational use (CM3060 NLP Course)
 - **Dataset**: CAIL2018 under original license terms
 - **Code**: Available for academic and educational purposes
 - **Attribution**: Please cite appropriately when using this work
-
-</td>
-<td style="width: 30%; word-wrap: break-word;">
 
 ### 🎓 Academic Citation
 
@@ -392,10 +387,6 @@ This project builds upon extensive research in **legal judgment prediction**, **
   month={June}
 }
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
